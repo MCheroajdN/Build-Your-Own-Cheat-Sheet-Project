@@ -1,5 +1,5 @@
 # Build Your Own Cheat sheet.
-During my Full Stack Developer Course with Codecademy, this was a challenge project requirement to build own note reference cheat sheet using table: Code [_here_].
+During my Full Stack Developer Course with Codecademy, this was a challenge project requirement to build own note reference cheat sheet using table.
 To help test and solidify my knowledge of HTML and CSS, we were asked to choose any topic from learning journey and create a cheat sheet in a tabular form. I have created a CSS Selector & Specificity Cheat Sheet and has helped me understand a lot more about this topic.
 
 
