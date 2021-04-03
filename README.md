@@ -14,6 +14,9 @@ With the resources available and studies from:
 * MDN
 * Codecademy Tutorials
 
+## Inspiration
+*  Codecademy challenge project [Full Stack Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/).
+
 ## To Do
 I intend in the future to improve this project, by adding:
 * more CSS Selectors
