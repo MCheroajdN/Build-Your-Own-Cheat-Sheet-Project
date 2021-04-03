@@ -1,0 +1,50 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("../Proj_Cheatsheet/images/img_backg.png");/*use if image available*/
+    background-color: blanchedalmond;/* use if image is not available*/
+    background-size: cover; /*image covers entire background*/
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    
+    
+    }
+    
+    
+h1 {
+    color: tomato;
+    text-align: center;
+}
+
+p {
+  text-align: center;
+}
+  
+caption {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: teal;
+}
+
+table, th, tr {
+    width: 850px;
+    height:50px;
+    border-collapse: collapse;
+    /* border-collapse: will remove the double lines in the table */
+    border: 1px solid darkred;
+    margin: 0 auto; /* center the table*/
+  }
+
+  td {
+        font-size: 14px;
+  }
+
+th, tr{
+text-align: center;
+padding: 5px;
+}
+
+span.tagCol{
+    background-color: yellow;
+    font-family: monospace;
+    font-size: 11px;
+    }
