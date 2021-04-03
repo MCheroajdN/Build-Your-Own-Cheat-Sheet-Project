@@ -25,4 +25,4 @@ Project is completed.
 
 ## Author/Contact
 >M. Christopher - Initial work
->GitHub:
+>GitHub:https://github.com/MCheroajdN/Build-Your-Own-Cheat-Sheet-Project
