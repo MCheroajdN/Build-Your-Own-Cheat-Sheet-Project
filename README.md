@@ -5,24 +5,24 @@ To help test and solidify my knowledge of HTML and CSS, we were asked to choose 
 
 ## Technologies
 This project is created with:
->HTML
->CSS
++HTML
++CSS
 
 ## Sources
 With the resources available and studies from:
->W3 School
->MDN
->Codecademy Tutorials
++W3 School
++MDN
++Codecademy Tutorials
 
 ## To Do
 I intend in the future to improve this project, by adding:
->more CSS Selectors
->improving visual effects.
->but if you have any feedback/comment on how to improve of bug fixes will be greatly appreciated.
++more CSS Selectors
++improving visual effects.
++but if you have any feedback/comment on how to improve of bug fixes will be greatly appreciated.
 
 ## Status
 Project is completed.
 
 ## Author/Contact
->M. Christopher - Initial work
->GitHub:https://github.com/MCheroajdN/Build-Your-Own-Cheat-Sheet-Project
++M. Christopher - Initial work
++GitHub:https://github.com/MCheroajdN/Build-Your-Own-Cheat-Sheet-Project
